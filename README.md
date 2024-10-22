@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kabiryadav0932
+- 👋 Hi, I’m Kabir Rai
 - 👀 I’m interested in football matches(LIVERPOOL)
-- 🌱 I’m currently learning C and JAVA
+- 🌱 I’m currently learning C,C++ and Pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- kabir_8882(instagram account)
 - 😄 Pronouns: ...
